@@ -1,4 +1,6 @@
-### Hi, I'm Robert! 👋
+## Hi, I'm Robert! 👋
+I'm a third year Computer Science Student and a Junior Software Developer from Timisoara.
+Ever so passionate about everything tech-related. And cars.
 
 <div>
     <a href="https://github.com/roberthevesi">
