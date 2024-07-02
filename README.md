@@ -1,5 +1,5 @@
 ## Hi, I'm Robert! 👋
-I'm a fourth year Computer Science Student and a Junior Software Developer from Timisoara.
+I'm a Computer Science Graduate and a Software Engineer from Timisoara.
 Ever so passionate about everything tech-related. And cars.
 
 <div>
